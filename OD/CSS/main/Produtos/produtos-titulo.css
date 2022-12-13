@@ -1,0 +1,13 @@
+.produtos_titulo, .produtos_tituloT{
+    color: #28085B;
+    font-size: 40px;
+    margin-bottom:-100px;
+    margin-right: 252px;
+    margin-top: 85px;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.produtos_tituloT{
+    margin-right: 285px;
+}

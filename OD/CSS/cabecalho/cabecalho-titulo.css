@@ -1,0 +1,11 @@
+.cabecalho_titulo{
+    color: #FFFFFF;
+    font-size: 60px;
+    margin: auto 60px ;
+}
+
+@media screen and (max-width: 375px) {
+    .cabecalho__titulo{
+        font-size: 25px;
+    }
+}

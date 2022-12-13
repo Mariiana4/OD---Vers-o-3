@@ -1,0 +1,13 @@
+.canaisContato_container{
+    border-right: solid #FFFFFF 1px;
+    height: auto;
+    justify-items: center;
+    margin-left: 90px;
+    margin-top: 50px;
+    padding-right: 55px;
+}
+
+.canaisContato_container2{
+    border-bottom: solid #FFFFFF 1px;
+    padding: 20px;
+}

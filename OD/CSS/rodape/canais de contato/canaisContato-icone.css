@@ -1,0 +1,9 @@
+.icone{
+    width: 60px;
+    margin-right: 20px;
+}
+
+.canaisContato_icone{
+    display: flex;
+    margin-bottom: 30px;
+}

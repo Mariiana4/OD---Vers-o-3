@@ -1,0 +1,8 @@
+.cabecalho_lista{
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 1.5%;
+    width: 50%;
+}
+

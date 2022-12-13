@@ -1,0 +1,13 @@
+.cabecalho{
+    background: #976DD0;
+    display: flex;
+    height: 130px;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 375px) {
+    .cabecalho{
+        background: red;
+        width: auto;
+    }
+}
